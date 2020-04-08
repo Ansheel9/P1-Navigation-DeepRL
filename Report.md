@@ -73,7 +73,7 @@ The top performing agent was with [fc1_units, fc2_units] = [64, 32]. The agent w
 
 ![](https://raw.githubusercontent.com/Ansheel9/P1-Navigation-DeepRL/master/Plot.PNG)
 
-This is plot of rewards when training. With mean score of 16.4, agent passes met the criteria (mean scores of last 100 episodes is above +13)
+This is plot of rewards when training. With mean score of 16.7, agent passes met the criteria (mean scores of last 100 episodes is above +13)
 
 <a name="work"></a>
 ## Ideas of Future Work
